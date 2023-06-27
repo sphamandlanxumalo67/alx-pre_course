@@ -1,1 +1,2 @@
 git push origin main
+gh pr checkout 1
